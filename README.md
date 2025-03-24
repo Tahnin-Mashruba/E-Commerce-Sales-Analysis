@@ -68,4 +68,7 @@ A slicer for selecting specific product names (e.g., P-Furnt-BC-001 to P-Furnt-B
 ## 🚀 How to Use  
 1. **Download the .pbix file** and open it in Power BI Desktop.  
 2. *Connect your data source* (update credentials if needed).  
-3. *Explore the interactive dashboard* using filters and slicers.  
+3. *Explore the interactive dashboard* using filters and slicers.
+
+## 📢 Contact  
+For questions or improvements, feel free to open an *Issue* or submit a *Pull Request*.
