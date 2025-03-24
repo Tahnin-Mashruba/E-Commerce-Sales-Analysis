@@ -1,16 +1,15 @@
  📊 Power BI Sales Dashboard  
 
 ## 📌 Overview  
-This dashboard provides a comprehensive analysis of our e-commerce sales performance over the selected time period. Key metrics such as Total orders, Total order quantities, Total Revenues, Total Profits, Profit margin are highlighted, offering a clear view of our business's health and growth. 
-Also, Geographical map is used to visualize amount of order quantities by country, state and city and Filters to allow users to drill down into yearly data and compare performance metrics across different regions or segment types.
+This dashboard provides a comprehensive analysis of our E-Commerce Sales Performance over the selected time period. Key metrics such as Total orders, Total order quantities, Total Revenues, Total Profits, Profit margin are highlighted, offering a clear view of our business's health and growth. 
+Also, Geographical map is used to visualize amount of order quantities by country, state and city and filters to allow users to drill down into yearly data and compare performance metrics across different regions or segment types.
 
 📂 **Dataset Used**  
 - **Source File**: `Dataset.xlsx`
   
 ## 🏆 Features  
-Executive Page:
-This Power BI report page appears to be an Executive Dashboard summarizing key business metrics. Here’s an overview of its features:
-Key Metrics (Top Section)
+Page:1 Executive Page
+This Power BI report page appears to be an Executive Dashboard summarizing key business metrics. Here’s an overview of its key features:
 1. Total Orders: 26K
 2. Total Order Quantities: 178K
 3. Total Products: 3,788
@@ -27,10 +26,10 @@ North America has the highest profit and Europe, Asia, and other continents cont
 4. Detailed Data Table
 Breakdown by sub-category (Phones, Chairs, Copiers, etc.) Displays total orders, products, order quantity, total revenues, total costs, and total profits for each category.
 Additional Features
-Date Filter (Bottom Section): Allows filtering data between 2012 and 2015.
-Navigation Options (Bottom Tabs): Links to Homepage, Regional Order Page, and Sales Page for deeper analysis.
+Date Filter: Allows filtering data between 2012 and 2015.
+Navigation Options: Links to Homepage, Regional Order Page, and Sales Page for deeper analysis.
 
-Regional order Page:
+Page 2: Regional order Page
 The page provides insights into order quantities, revenue distribution, and order priority levels across different regions and cities.
 It contains interactive visualizations such as pie charts, bar charts, and a map to represent data effectively.
 There are filtering options available (e.g., selecting continents) for deeper analysis.
@@ -42,9 +41,8 @@ Highlights the cities with the most orders including New York City, Los Angeles,
 3. Sum of Order Quantity and Total Revenues by Country (Map)
 A world map displaying order distribution and revenue contribution. Bigger circles likely indicate higher order volumes or revenue.
 
-Sales Page:
-This Power BI report page appears to be a Sales Performance Dashboard, featuring key financial metrics, a tabular breakdown of revenue and profit, and a time-series visualization of revenue trends. Here’s an overview of its features:
-Key Features of the Page
+Page 3: Sales Page
+This Power BI report page appears to be a Sales Performance Dashboard, featuring key financial metrics, a tabular breakdown of revenue and profit, and a time-series visualization of revenue trends. Here’s an overview of its key features:
 1. KPI Cards 
 Total Costs: 15.35M
 Total Costs Returned: 403.72K
